@@ -23,5 +23,5 @@
   - reconless channel: https://www.youtube.com/channel/UCCp25j1Zh9vc_WFm-nB9fhQ/videos
   - pwnfunction playlists: https://www.youtube.com/c/PwnFunction/playlists
   - thehackerish playlists: https://www.youtube.com/channel/UCIXot2vRgeM5alhAlpTbhQA/playlists
-  - 
+  - bugcrowd university playlist: https://www.youtube.com/playlist?list=PLIK9nm3mu-S4K4jMHwtplbrE1JMg0jyN-
 </details>
