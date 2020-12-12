@@ -82,9 +82,11 @@
    </blockquote>
 </details>
     
-    
    </blockquote>
 </details>
+
+
+
 
 
 
@@ -103,5 +105,27 @@
    - https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
    - https://enfinlay.github.io/bugbounty/2020/08/15/so-you-wanna-hack.html
    - https://enfinlay.github.io/sto/ip/domain/bugbounty/2020/09/12/ip-server-domain.html
+   </blockquote>
+</details>
+
+
+
+
+
+
+<details>
+  <summary>tryhackme</summary>
+   <blockquote>
+    
+   - https://tryhackme.com/room/rpburpsuite
+   - https://tryhackme.com/room/owasptop10
+   - https://tryhackme.com/room/webfundamentals
+   - https://tryhackme.com/room/webappsec101
+   - https://tryhackme.com/room/vulnversity
+   - https://tryhackme.com/room/juiceshop
+   - https://tryhackme.com/room/rpwebscanning
+   - https://tryhackme.com/room/dvwa
+   - https://tryhackme.com/room/jack
+   - https://tryhackme.com/room/shodan
    </blockquote>
 </details>
