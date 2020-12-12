@@ -1,9 +1,9 @@
 <details>
   <summary>youtube</summary>
-  
-  <details>
-  <summary>videos</summary>
-   
+	<blockquote>
+	<details>
+	<summary>videos</summary>
+		
    - guide to learn hacking: https://www.youtube.com/watch?v=2TofunAI6fU
    - can değer: https://www.youtube.com/watch?v=hUb8evQHhCQ
    - can değer with adil burak şen: https://www.youtube.com/watch?v=xb-v5UyNp4g 
@@ -13,7 +13,7 @@
    - burp suite basics: https://www.youtube.com/watch?v=G3hpAeoZ4ek
    - 10 tips for bug bounty: https://www.youtube.com/watch?v=s-baVDolDpI
    - reconless bug bounty tips: https://www.youtube.com/watch?v=Y1S5s3FmFsI 
-   
+	 
   </details>
   
   <details>
@@ -45,7 +45,7 @@
    - stök: https://www.youtube.com/c/STOKfredrik
    
   </details>
-  
+  </blockquote>
 </details>
 
 
