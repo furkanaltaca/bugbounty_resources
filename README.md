@@ -129,3 +129,37 @@
    - https://tryhackme.com/room/shodan
    </blockquote>
 </details>
+
+
+
+
+
+
+<details>
+  <summary>web sites</summary>
+   <blockquote>
+    
+   - https://www.bugcrowd.com/hackers/bugcrowd-university
+   - https://www.hacker101.com/videos
+   - https://owasp.org/www-project-top-ten/
+   - https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2020/
+   - https://medium.com/@mehmetsalihbindak/k%C4%B1sa-k%C4%B1sa-yararl%C4%B1-linkler-9-bug-bounty-d%C3%BCnyas%C4%B1-ve-3-g%C3%BCzel-kitap-%C3%B6nerisi-95563737ebf
+   - https://owasp.org/www-chapter-coimbatore/assets/files/Lets%20Recon.pdf
+   - https://techvomit.net/web-application-penetration-testing-notes/
+   - https://docs.google.com/presentation/d/1xgvEScGZ_ukNY0rmfKz1JN0sn-CgZY_rTp2B_SZvijk/edit#slide=id.g4052c4692d_0_408
+   - https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f
+   - https://blog.mert.ninja/
+   - https://www.bugbountyhunter.com
+   - https://bugbountyguide.com
+   - https://bugbountyworld.com
+   - https://bugbountyforum.com
+   - https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/
+   - https://web.stanford.edu/class/cs253/
+   - https://portswigger.net/web-security/sql-injection/cheat-sheet
+   - https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
+   - https://pentesterlab.com/
+   - http://vulnweb.com/
+   - https://portswigger.net/web-security
+   - https://www.exploit-db.com/
+   </blockquote>
+</details>
