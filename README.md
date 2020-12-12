@@ -155,11 +155,13 @@
    - https://bugbountyforum.com
    - https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/
    - https://web.stanford.edu/class/cs253/
-   - https://portswigger.net/web-security/sql-injection/cheat-sheet
    - https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
    - https://pentesterlab.com/
    - http://vulnweb.com/
    - https://portswigger.net/web-security
    - https://www.exploit-db.com/
+   - https://portswigger.net/blog/finding-your-first-bug-bounty-hunting-tips-from-the-burp-suite-community
+   - https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f
+   - https://twitter.com/pirateducky/status/1300566000665014275
    </blockquote>
 </details>
