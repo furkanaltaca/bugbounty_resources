@@ -163,5 +163,46 @@
    - https://portswigger.net/blog/finding-your-first-bug-bounty-hunting-tips-from-the-burp-suite-community
    - https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f
    - https://twitter.com/pirateducky/status/1300566000665014275
+   - https://tillsongalloway.com/finding-sensitive-information-on-github/index.html
+   </blockquote>
+</details>
+
+
+
+
+
+
+<details>
+  <summary>tools</summary>
+   <blockquote>
+    
+   - https://github.com/AlexisAhmed/BugBountyTools
+   - hackersploit bug hunting tools: https://www.youtube.com/watch?v=1J7dWJMEnl8 
+   - https://github.com/fransr/postMessage-tracker
+   - https://github.com/danielmiessler/SecLists
+   - https://github.com/1N3/IntruderPayloads
+   - https://github.com/heilla/SecurityTesting
+   - https://github.com/swisskyrepo/PayloadsAllTheThings
+   - https://github.com/fuzzdb-project/fuzzdb
+   - https://github.com/nahamsec/lazyrecon
+   - https://github.com/Screetsec/Sudomy
+   - https://github.com/j3ssie/Osmedeus
+   - https://www.shodan.io
+   - https://builtwith.com/
+   - https://crt.sh/
+   - https://securityheaders.com/
+   - https://weleakinfo.to/v2/
+   - https://www.ripe.net/
+   - https://mxtoolbox.com/
+   - https://github.com/sushiwushi/bug-bounty-dorks
+   - https://github.com/hemantsolo/Bug-Bounty-Dorks-And-Platforms/blob/master/Bug_Bounty_Dorks.md
+   - https://github.com/random-robbie/bugbountydork
+   - https://sslmate.com/certspotter/
+   - https://scrapy.org/
+   - https://gchq.github.io/CyberChef/
+   - https://whatcms.org/
+   - https://github.com/s0md3v/Striker
+   - https://tools.w3cub.com/html-escape-unescape
+   - https://github.com/Findomain/Findomain
    </blockquote>
 </details>
