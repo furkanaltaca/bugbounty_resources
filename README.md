@@ -85,3 +85,23 @@
     
    </blockquote>
 </details>
+
+
+
+<details>
+  <summary>github</summary>
+   <blockquote>
+    
+   - https://github.com/OWASP/wstg
+   - https://github.com/reddelexc/hackerone-reports
+   - https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
+   - https://github.com/bugcrowd/bugcrowd_university
+   - https://github.com/KathanP19/HowToHunt
+   - https://github.com/qazbnm456/awesome-web-security#readm
+   - https://github.com/juliocesarfort/public-pentesting-reports
+   - https://github.com/EdOverflow/can-i-take-over-xyz
+   - https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
+   - https://enfinlay.github.io/bugbounty/2020/08/15/so-you-wanna-hack.html
+   - https://enfinlay.github.io/sto/ip/domain/bugbounty/2020/09/12/ip-server-domain.html
+   </blockquote>
+</details>
