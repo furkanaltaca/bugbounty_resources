@@ -1,8 +1,10 @@
 <details>
   <summary>youtube</summary>
-	<blockquote>
-	<details>
-	<summary>videos</summary>
+   <blockquote>
+    
+<details>
+  <summary>videos</summary>
+   <blockquote>
 		
    - guide to learn hacking: https://www.youtube.com/watch?v=2TofunAI6fU
    - can değer: https://www.youtube.com/watch?v=hUb8evQHhCQ
@@ -14,10 +16,12 @@
    - 10 tips for bug bounty: https://www.youtube.com/watch?v=s-baVDolDpI
    - reconless bug bounty tips: https://www.youtube.com/watch?v=Y1S5s3FmFsI 
 	 
-  </details>
-  
-  <details>
+   </blockquote>
+</details>
+    
+<details>
   <summary>playlists</summary>
+   <blockquote>
     
    - mdisec web security hacking: https://www.youtube.com/playlist?list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT
    - web hacking 101 playlist: https://www.youtube.com/playlist?list=PLZaG0MNecryP55u43LWqHy5MADcvLjnL-
@@ -28,10 +32,12 @@
    - bugcrowd university playlist: https://www.youtube.com/playlist?list=PLIK9nm3mu-S4K4jMHwtplbrE1JMg0jyN-
    - insiderphd series for new bug hunters playlist: https://www.youtube.com/playlist?list=PLbyncTkpno5FAC0DJYuJrEqHSMdudEffw 
    
-  </details>
+   </blockquote>
+</details>
   
-  <details>
+ <details>
   <summary>channels</summary>
+   <blockquote>
   
    - gökay beksen playlists: https://www.youtube.com/c/gokaybeksen1/playlists
    - bug bounty public disclosure channel: https://www.youtube.com/channel/UCNRM4GH-SD85WCSqeSb4xUA/videos
@@ -45,8 +51,35 @@
    - nahamsec channel: https://www.youtube.com/c/Nahamsec
    - stök: https://www.youtube.com/c/STOKfredrik
    
-  </details>
-  </blockquote>
+   </blockquote>
+</details>
+   </blockquote>
 </details>
 
 
+
+
+
+<details>
+  <summary>twitch</summary>
+   <blockquote>
+    
+<details>
+  <summary>channels</summary>
+   <blockquote>
+	   
+   - test
+   </blockquote>
+</details>
+
+<details>
+  <summary>videos</summary>
+   <blockquote>
+	   
+   - test
+   </blockquote>
+</details>
+    
+    
+   </blockquote>
+</details>
