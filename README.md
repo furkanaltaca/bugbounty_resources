@@ -19,6 +19,7 @@
   <details>
   <summary>playlists</summary>
     
+   - mdisec web security hacking: https://www.youtube.com/playlist?list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT
    - web hacking 101 playlist: https://www.youtube.com/playlist?list=PLZaG0MNecryP55u43LWqHy5MADcvLjnL-
    - the cyber mentor web pentest playlist: https://www.youtube.com/playlist?list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL
    - hackersploit webpentest playlist: https://www.youtube.com/playlist?list=PLBf0hzazHTGO3EpGAs718LvLsiMIv9dSC 
