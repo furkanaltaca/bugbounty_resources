@@ -68,7 +68,7 @@
   <summary>channels</summary>
    <blockquote>
 	   
-   - test
+   - nahamsec: https://www.twitch.tv/nahamsec/videos?filter=all&sort=time
    </blockquote>
 </details>
 
@@ -76,7 +76,9 @@
   <summary>videos</summary>
    <blockquote>
 	   
-   - test
+   - mdisec burp eğitimi: https://www.twitch.tv/videos/580024014?collection=JbIfA4EXwxXZ_A&filter=collections&sort=time
+   - adil burak şen recon 1: https://www.twitch.tv/videos/659359717?collection=Ou6qbH3nGRbySA
+   - adil burak şen recon 2: https://www.twitch.tv/videos/666158573?collection=Ou6qbH3nGRbySA
    </blockquote>
 </details>
     
