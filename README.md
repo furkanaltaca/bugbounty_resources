@@ -8,10 +8,10 @@
 		
    - guide to learn hacking: https://www.youtube.com/watch?v=2TofunAI6fU
    - can değer: https://www.youtube.com/watch?v=hUb8evQHhCQ
-   - can değer with adil burak şen: https://www.youtube.com/watch?v=xb-v5UyNp4g 
    - suat karaytu: https://www.youtube.com/watch?v=6RLsvhT3Fps
-   - mdisec hackerone yayını: https://www.youtube.com/watch?v=GMi87PFsgd4
    - gökay beksen: https://www.youtube.com/watch?v=PSZfegwMY6Y
+   - mdisec hackerone yayını: https://www.youtube.com/watch?v=GMi87PFsgd4
+   - can değer with adil burak şen about recon: https://www.youtube.com/watch?v=xb-v5UyNp4g 
    - burp suite basics: https://www.youtube.com/watch?v=G3hpAeoZ4ek
    - 10 tips for bug bounty: https://www.youtube.com/watch?v=s-baVDolDpI
    - reconless bug bounty tips: https://www.youtube.com/watch?v=Y1S5s3FmFsI 
@@ -23,14 +23,13 @@
   <summary>playlists</summary>
    <blockquote>
     
-   - mdisec web security hacking: https://www.youtube.com/playlist?list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT
-   - web hacking 101 playlist: https://www.youtube.com/playlist?list=PLZaG0MNecryP55u43LWqHy5MADcvLjnL-
-   - the cyber mentor web pentest playlist: https://www.youtube.com/playlist?list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL
-   - hackersploit webpentest playlist: https://www.youtube.com/playlist?list=PLBf0hzazHTGO3EpGAs718LvLsiMIv9dSC 
+   - insiderphd series for new bug hunters playlist: https://www.youtube.com/playlist?list=PLbyncTkpno5FAC0DJYuJrEqHSMdudEffw 
    - hackersploit burp suite tutorial playlist: https://www.youtube.com/playlist?list=PLBf0hzazHTGP2L7AoWTIhggUsDdNZhfBl
    - hacksplained burp suite 101 playlist: https://www.youtube.com/playlist?list=PL8j1j35M7wtI4IvNS7ItrM8dTYXx2nYfX 
+   - mdisec web security hacking: https://www.youtube.com/playlist?list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT
+   - the cyber mentor web pentest playlist: https://www.youtube.com/playlist?list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL
+   - hackersploit webpentest playlist: https://www.youtube.com/playlist?list=PLBf0hzazHTGO3EpGAs718LvLsiMIv9dSC 
    - bugcrowd university playlist: https://www.youtube.com/playlist?list=PLIK9nm3mu-S4K4jMHwtplbrE1JMg0jyN-
-   - insiderphd series for new bug hunters playlist: https://www.youtube.com/playlist?list=PLbyncTkpno5FAC0DJYuJrEqHSMdudEffw 
    
    </blockquote>
 </details>
@@ -70,7 +69,12 @@
   <summary>channels</summary>
    <blockquote>
 	   
-   - nahamsec: https://www.twitch.tv/nahamsec/videos?filter=all&sort=time
+   - https://www.twitch.tv/nahamsec
+   - https://www.twitch.tv/js0n_x
+   - https://www.twitch.tv/thecybermentor
+   - https://www.twitch.tv/lunizz
+   - https://www.twitch.tv/mdisec
+   - https://www.twitch.tv/bugcrowd
    </blockquote>
 </details>
 
@@ -78,7 +82,7 @@
   <summary>videos</summary>
    <blockquote>
 	   
-   - mdisec burp eğitimi: https://www.twitch.tv/videos/580024014?collection=JbIfA4EXwxXZ_A&filter=collections&sort=time
+   - mdisec burp tutorial: https://www.twitch.tv/videos/580024014?collection=JbIfA4EXwxXZ_A&filter=collections&sort=time
    - adil burak şen recon 1: https://www.twitch.tv/videos/659359717?collection=Ou6qbH3nGRbySA
    - adil burak şen recon 2: https://www.twitch.tv/videos/666158573?collection=Ou6qbH3nGRbySA
    </blockquote>
@@ -96,17 +100,16 @@
   <summary>github</summary>
    <blockquote>
     
-   - https://github.com/OWASP/wstg
-   - https://github.com/reddelexc/hackerone-reports
    - https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
-   - https://github.com/bugcrowd/bugcrowd_university
    - https://github.com/KathanP19/HowToHunt
+   - https://github.com/bugcrowd/bugcrowd_university
    - https://github.com/qazbnm456/awesome-web-security#readm
    - https://github.com/juliocesarfort/public-pentesting-reports
-   - https://github.com/EdOverflow/can-i-take-over-xyz
-   - https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
    - https://enfinlay.github.io/bugbounty/2020/08/15/so-you-wanna-hack.html
    - https://enfinlay.github.io/sto/ip/domain/bugbounty/2020/09/12/ip-server-domain.html
+   - https://github.com/EdOverflow/can-i-take-over-xyz
+   - https://github.com/reddelexc/hackerone-reports
+   
    </blockquote>
 </details>
 
@@ -129,6 +132,7 @@
    - https://tryhackme.com/room/dvwa
    - https://tryhackme.com/room/jack
    - https://tryhackme.com/room/shodan
+   
    </blockquote>
 </details>
 
@@ -151,7 +155,7 @@
    - https://docs.google.com/presentation/d/1xgvEScGZ_ukNY0rmfKz1JN0sn-CgZY_rTp2B_SZvijk/edit#slide=id.g4052c4692d_0_408
    - https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f
    - https://blog.mert.ninja/
-   - https://www.bugbountyhunter.com
+   - https://bugbountyhunter.com
    - https://bugbountyguide.com
    - https://bugbountyworld.com
    - https://bugbountyforum.com
@@ -166,6 +170,7 @@
    - https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f
    - https://twitter.com/pirateducky/status/1300566000665014275
    - https://tillsongalloway.com/finding-sensitive-information-on-github/index.html
+   
    </blockquote>
 </details>
 
@@ -206,6 +211,7 @@
    - https://github.com/s0md3v/Striker
    - https://tools.w3cub.com/html-escape-unescape
    - https://github.com/Findomain/Findomain
+   
    </blockquote>
 </details>
 
@@ -220,5 +226,6 @@
    <blockquote>
     
    - hackerone web hacking 101 book: register for hackerone and take it from your mail inbox 
+   
    </blockquote>
 </details>
