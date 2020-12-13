@@ -1,4 +1,9 @@
 <details>
+  <summary>bug bounty</summary>
+   <blockquote>
+
+
+<details>
   <summary>youtube</summary>
    <blockquote>
     
@@ -227,5 +232,9 @@
     
    - hackerone web hacking 101 book: register for hackerone and take it from your mail inbox 
    
+   </blockquote>
+</details>
+
+
    </blockquote>
 </details>
