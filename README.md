@@ -12,6 +12,7 @@
    - gökay beksen: https://www.youtube.com/watch?v=PSZfegwMY6Y
    - mdisec hackerone yayını: https://www.youtube.com/watch?v=GMi87PFsgd4
    - can değer with adil burak şen about recon: https://www.youtube.com/watch?v=xb-v5UyNp4g 
+   - hackersploit bug hunting tools: https://www.youtube.com/watch?v=1J7dWJMEnl8 
    - burp suite basics: https://www.youtube.com/watch?v=G3hpAeoZ4ek
    - 10 tips for bug bounty: https://www.youtube.com/watch?v=s-baVDolDpI
    - reconless bug bounty tips: https://www.youtube.com/watch?v=Y1S5s3FmFsI 
@@ -96,27 +97,6 @@
 
 
 
-<details>
-  <summary>github</summary>
-   <blockquote>
-    
-   - https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
-   - https://github.com/KathanP19/HowToHunt
-   - https://github.com/bugcrowd/bugcrowd_university
-   - https://github.com/qazbnm456/awesome-web-security#readm
-   - https://github.com/juliocesarfort/public-pentesting-reports
-   - https://enfinlay.github.io/bugbounty/2020/08/15/so-you-wanna-hack.html
-   - https://enfinlay.github.io/sto/ip/domain/bugbounty/2020/09/12/ip-server-domain.html
-   - https://github.com/EdOverflow/can-i-take-over-xyz
-   - https://github.com/reddelexc/hackerone-reports
-   
-   </blockquote>
-</details>
-
-
-
-
-
 
 <details>
   <summary>tryhackme</summary>
@@ -178,18 +158,41 @@
 
 
 
+<details>
+  <summary>github</summary>
+   <blockquote>
+    
+   - https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
+   - https://github.com/KathanP19/HowToHunt
+   - https://github.com/bugcrowd/bugcrowd_university
+   - https://github.com/qazbnm456/awesome-web-security#readm
+   - https://github.com/juliocesarfort/public-pentesting-reports
+   - https://enfinlay.github.io/bugbounty/2020/08/15/so-you-wanna-hack.html
+   - https://enfinlay.github.io/sto/ip/domain/bugbounty/2020/09/12/ip-server-domain.html
+   - https://github.com/EdOverflow/can-i-take-over-xyz
+   - https://github.com/reddelexc/hackerone-reports
+   - https://github.com/AlexisAhmed/BugBountyTools
+   - https://github.com/fransr/postMessage-tracker
+   - https://github.com/1N3/IntruderPayloads
+   - https://github.com/heilla/SecurityTesting
+   - https://github.com/swisskyrepo/PayloadsAllTheThings
+   - https://github.com/sushiwushi/bug-bounty-dorks
+   - https://github.com/hemantsolo/Bug-Bounty-Dorks-And-Platforms/blob/master/Bug_Bounty_Dorks.md
+   - https://github.com/random-robbie/bugbountydork
+   
+   </blockquote>
+</details>
+
+
+
+
+
 
 <details>
   <summary>tools</summary>
    <blockquote>
     
-   - https://github.com/AlexisAhmed/BugBountyTools
-   - hackersploit bug hunting tools: https://www.youtube.com/watch?v=1J7dWJMEnl8 
-   - https://github.com/fransr/postMessage-tracker
    - https://github.com/danielmiessler/SecLists
-   - https://github.com/1N3/IntruderPayloads
-   - https://github.com/heilla/SecurityTesting
-   - https://github.com/swisskyrepo/PayloadsAllTheThings
    - https://github.com/fuzzdb-project/fuzzdb
    - https://github.com/nahamsec/lazyrecon
    - https://github.com/Screetsec/Sudomy
@@ -201,9 +204,6 @@
    - https://weleakinfo.to/v2/
    - https://www.ripe.net/
    - https://mxtoolbox.com/
-   - https://github.com/sushiwushi/bug-bounty-dorks
-   - https://github.com/hemantsolo/Bug-Bounty-Dorks-And-Platforms/blob/master/Bug_Bounty_Dorks.md
-   - https://github.com/random-robbie/bugbountydork
    - https://sslmate.com/certspotter/
    - https://scrapy.org/
    - https://gchq.github.io/CyberChef/
