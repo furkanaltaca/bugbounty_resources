@@ -125,6 +125,21 @@
 
 
 
+<details>
+  <summary>medium</summary>
+   <blockquote>
+    
+   - https://medium.com/@mehmetsalihbindak/k%C4%B1sa-k%C4%B1sa-yararl%C4%B1-linkler-9-bug-bounty-d%C3%BCnyas%C4%B1-ve-3-g%C3%BCzel-kitap-%C3%B6nerisi-95563737ebf
+   - https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f
+   - https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f
+   - https://medium.com/inbughunters/getting-started-in-bug-bounty-7052da28445a
+   
+   </blockquote>
+</details>
+
+
+
+
 
 <details>
   <summary>web sites</summary>
@@ -134,11 +149,9 @@
    - https://www.hacker101.com/videos
    - https://owasp.org/www-project-top-ten/
    - https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2020/
-   - https://medium.com/@mehmetsalihbindak/k%C4%B1sa-k%C4%B1sa-yararl%C4%B1-linkler-9-bug-bounty-d%C3%BCnyas%C4%B1-ve-3-g%C3%BCzel-kitap-%C3%B6nerisi-95563737ebf
    - https://owasp.org/www-chapter-coimbatore/assets/files/Lets%20Recon.pdf
    - https://techvomit.net/web-application-penetration-testing-notes/
    - https://docs.google.com/presentation/d/1xgvEScGZ_ukNY0rmfKz1JN0sn-CgZY_rTp2B_SZvijk/edit#slide=id.g4052c4692d_0_408
-   - https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f
    - https://blog.mert.ninja/
    - https://bugbountyhunter.com
    - https://bugbountyguide.com
@@ -152,13 +165,13 @@
    - https://portswigger.net/web-security
    - https://www.exploit-db.com/
    - https://portswigger.net/blog/finding-your-first-bug-bounty-hunting-tips-from-the-burp-suite-community
-   - https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f
    - https://twitter.com/pirateducky/status/1300566000665014275
    - https://tillsongalloway.com/finding-sensitive-information-on-github/index.html
-   - https://medium.com/inbughunters/getting-started-in-bug-bounty-7052da28445a
    
    </blockquote>
 </details>
+
+
 
 
 
