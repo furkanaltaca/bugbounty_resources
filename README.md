@@ -155,6 +155,7 @@
    - https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f
    - https://twitter.com/pirateducky/status/1300566000665014275
    - https://tillsongalloway.com/finding-sensitive-information-on-github/index.html
+   - https://medium.com/inbughunters/getting-started-in-bug-bounty-7052da28445a
    
    </blockquote>
 </details>
