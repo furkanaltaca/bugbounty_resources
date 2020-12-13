@@ -39,17 +39,19 @@
   <summary>channels</summary>
    <blockquote>
   
-   - gökay beksen playlists: https://www.youtube.com/c/gokaybeksen1/playlists
-   - bug bounty public disclosure channel: https://www.youtube.com/channel/UCNRM4GH-SD85WCSqeSb4xUA/videos
-   - bugcrowd playlists: https://www.youtube.com/c/Bugcrowd/playlists
    - insiderphd playlists: https://www.youtube.com/c/InsiderPhD/playlists
-   - hackersploit playlists: https://www.youtube.com/c/HackerSploit/playlists
-   - jhaddix channel: https://www.youtube.com/c/jhaddix/videos
-   - reconless channel: https://www.youtube.com/channel/UCCp25j1Zh9vc_WFm-nB9fhQ/videos
+   - bugcrowd playlists: https://www.youtube.com/c/Bugcrowd/playlists
+   - gökay beksen playlists: https://www.youtube.com/c/gokaybeksen1/playlists
    - pwnfunction playlists: https://www.youtube.com/c/PwnFunction/playlists
+   - bug bounty public disclosure channel: https://www.youtube.com/channel/UCNRM4GH-SD85WCSqeSb4xUA/videos
+   - hackersploit playlists: https://www.youtube.com/c/HackerSploit/playlists
+   - reconless channel: https://www.youtube.com/channel/UCCp25j1Zh9vc_WFm-nB9fhQ/videos
    - thehackerish playlists: https://www.youtube.com/channel/UCIXot2vRgeM5alhAlpTbhQA/playlists
+   - jhaddix channel: https://www.youtube.com/c/jhaddix/videos
    - nahamsec channel: https://www.youtube.com/c/Nahamsec
    - stök: https://www.youtube.com/c/STOKfredrik
+   - https://www.youtube.com/channel/UCk2-UWhBkJFs-GcgLUywNJA/videos
+   - thehackerish: https://www.youtube.com/channel/UCIXot2vRgeM5alhAlpTbhQA/playlists
    
    </blockquote>
 </details>
