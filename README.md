@@ -217,6 +217,6 @@
   <summary>books</summary>
    <blockquote>
     
-   - web hacking 101 book
+   - hackerone web hacking 101 book: register for hackerone and take it from your mail inbox 
    </blockquote>
 </details>
