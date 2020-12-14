@@ -215,6 +215,7 @@
     
    - https://github.com/danielmiessler/SecLists
    - https://github.com/fuzzdb-project/fuzzdb
+   - https://github.com/ffuf/ffuf
    - https://github.com/nahamsec/lazyrecon
    - https://github.com/Screetsec/Sudomy
    - https://github.com/j3ssie/Osmedeus
