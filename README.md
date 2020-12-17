@@ -200,6 +200,8 @@
    - https://github.com/sushiwushi/bug-bounty-dorks
    - https://github.com/hemantsolo/Bug-Bounty-Dorks-And-Platforms/blob/master/Bug_Bounty_Dorks.md
    - https://github.com/random-robbie/bugbountydork
+   - https://github.com/pentester-io/commonspeak
+   - https://github.com/FortyNorthSecurity/EyeWitness
    
    </blockquote>
 </details>
