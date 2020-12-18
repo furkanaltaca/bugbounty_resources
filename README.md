@@ -131,7 +131,6 @@
     
    - https://medium.com/@mehmetsalihbindak/k%C4%B1sa-k%C4%B1sa-yararl%C4%B1-linkler-9-bug-bounty-d%C3%BCnyas%C4%B1-ve-3-g%C3%BCzel-kitap-%C3%B6nerisi-95563737ebf
    - https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f
-   - https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f
    - https://medium.com/inbughunters/getting-started-in-bug-bounty-7052da28445a
    - https://medium.com/@dalvikbytecode/top-10-osint-tools-to-help-you-do-recon-a-domain-53d3af8b1ad2
    - https://medium.com/@z0id/different-approaches-of-reconnaissance-bug-bountys-9dcdecb2551e
