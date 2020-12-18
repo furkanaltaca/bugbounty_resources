@@ -50,3 +50,7 @@
 -----------
 **automation**
 - lazyrecon
+-----------
+**resources**
+  - https://github.com/bugcrowd/bugcrowd_university/blob/master/Recon%20and%20Discovery/Bugcrowd%20University%20-%20Recon%20%26%20Discovery.pdf
+  - https://owasp.org/www-chapter-coimbatore/assets/files/Lets%20Recon.pdf
