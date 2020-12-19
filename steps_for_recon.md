@@ -8,6 +8,7 @@
 - ripe: https://apps.db.ripe.net/db-web-ui/fulltextsearch
 - arin: http://whois.arin.net/ui/query.do
 - shodan: shodan.io
+- https://dnsdumpster.com/
 ------------
 **discovering new targets (brand and tld)**
 - acquisitions: www.crunchbase.com
