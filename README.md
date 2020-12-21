@@ -57,6 +57,7 @@
    - stök: https://www.youtube.com/c/STOKfredrik
    - https://www.youtube.com/channel/UCk2-UWhBkJFs-GcgLUywNJA/videos
    - thehackerish: https://www.youtube.com/channel/UCIXot2vRgeM5alhAlpTbhQA/playlists
+   - codingo: https://www.youtube.com/channel/UCUfO02gdMDXgOJWdv_jiLMg
    
    </blockquote>
 </details>
