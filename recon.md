@@ -6,6 +6,7 @@
   - https://www.offensity.com/de/blog/just-another-recon-guide-pentesters-and-bug-bounty-hunters/
   - https://medium.com/@singh.simran7838/what-is-the-importance-of-reconnaissance-in-bug-bounty-penetration-testing-part-1-4256f5006518
   - https://medium.com/bugbountywriteup/guide-to-basic-recon-bug-bounties-recon-728c5242a115
+  - https://thehackerish.com/bug-bounty-tools-from-enumeration-to-reporting/
 
 ------------
 **discovering ip space**
