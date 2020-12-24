@@ -135,6 +135,7 @@
    - https://medium.com/inbughunters/getting-started-in-bug-bounty-7052da28445a
    - https://medium.com/@dalvikbytecode/top-10-osint-tools-to-help-you-do-recon-a-domain-53d3af8b1ad2
    - https://medium.com/@z0id/different-approaches-of-reconnaissance-bug-bountys-9dcdecb2551e
+   - https://blog.usejournal.com/web-application-security-bug-bounty-methodology-reconnaissance-vulnerabilities-reporting-635073cddcf2
    
    </blockquote>
 </details>
