@@ -7,7 +7,6 @@
   - https://medium.com/@singh.simran7838/what-is-the-importance-of-reconnaissance-in-bug-bounty-penetration-testing-part-1-4256f5006518
   - https://medium.com/bugbountywriteup/guide-to-basic-recon-bug-bounties-recon-728c5242a115
   - https://thehackerish.com/bug-bounty-tools-from-enumeration-to-reporting/
-  - https://blog.usejournal.com/web-application-security-bug-bounty-methodology-reconnaissance-vulnerabilities-reporting-635073cddcf2
 
 ------------
 **discovering ip space**
