@@ -55,6 +55,7 @@
 - recursebuster -u https://www.tesla.com -w <wordlist> 
 - echo www.tesla.com | otxurls
 - echo www.tesla.com | waybackurls
+-----------
 **parameter discovery**
 - Parameter Bruting (also API fuzzing)
 - parameth
