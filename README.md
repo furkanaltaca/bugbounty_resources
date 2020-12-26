@@ -127,7 +127,7 @@
 
 
 <details>
-  <summary>medium</summary>
+  <summary>write ups</summary>
    <blockquote>
     
    - https://medium.com/@mehmetsalihbindak/k%C4%B1sa-k%C4%B1sa-yararl%C4%B1-linkler-9-bug-bounty-d%C3%BCnyas%C4%B1-ve-3-g%C3%BCzel-kitap-%C3%B6nerisi-95563737ebf
