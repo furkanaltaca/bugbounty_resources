@@ -137,6 +137,7 @@
    - https://medium.com/@z0id/different-approaches-of-reconnaissance-bug-bountys-9dcdecb2551e
    - https://blog.usejournal.com/web-application-security-bug-bounty-methodology-reconnaissance-vulnerabilities-reporting-635073cddcf2
    - https://medium.com/@infosecsanyam/bug-bounty-methodology-ttp-tactics-techniques-and-procedures-v-2-0-2ccd9d7eb2e2
+   - https://medium.com/bugbountywriteup/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-ef6542301c65
    
    </blockquote>
 </details>
