@@ -206,6 +206,7 @@
    - https://github.com/pentester-io/commonspeak
    - https://github.com/FortyNorthSecurity/EyeWitness
    - https://github.com/jhaddix/tbhm
+   - https://github.com/techgaun/github-dorks
    
    </blockquote>
 </details>
