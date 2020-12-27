@@ -8,6 +8,7 @@
   - https://medium.com/bugbountywriteup/guide-to-basic-recon-bug-bounties-recon-728c5242a115
   - https://thehackerish.com/bug-bounty-tools-from-enumeration-to-reporting/
   - http://zeroday-security.com/find-bug-get-bounty-using-google-dorks/
+  - https://github.com/Quikko/Recon-Methodology
 
 ------------
 **discovering ip space**
