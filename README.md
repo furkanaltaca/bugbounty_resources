@@ -172,6 +172,7 @@
    - https://portswigger.net/blog/finding-your-first-bug-bounty-hunting-tips-from-the-burp-suite-community
    - https://twitter.com/pirateducky/status/1300566000665014275
    - https://tillsongalloway.com/finding-sensitive-information-on-github/index.html
+   - https://pentester.land/
    
    </blockquote>
 </details>
