@@ -122,6 +122,21 @@
    - mdisec burp tutorial: https://www.twitch.tv/videos/580024014?collection=JbIfA4EXwxXZ_A&filter=collections&sort=time
    - adil burak şen recon 1: https://www.twitch.tv/videos/659359717?collection=Ou6qbH3nGRbySA
    - adil burak şen recon 2: https://www.twitch.tv/videos/666158573?collection=Ou6qbH3nGRbySA
+   - https://www.twitch.tv/videos/825595574?filter=all&sort=time
+   - https://www.twitch.tv/videos/767491117?filter=all&sort=time
+   - https://www.twitch.tv/videos/775439729?filter=all&sort=time
+   - https://www.twitch.tv/videos/779476290?filter=all&sort=time
+   - https://www.twitch.tv/videos/780692328?filter=all&sort=time
+   - https://www.twitch.tv/videos/786689198?filter=all&sort=time
+   - https://www.twitch.tv/videos/787862940?filter=all&sort=time
+   - https://www.twitch.tv/videos/795192683?filter=all&sort=time
+   - https://www.twitch.tv/videos/797312801?filter=all&sort=time
+   - https://www.twitch.tv/videos/803096077?filter=all&sort=time
+   - https://www.twitch.tv/videos/805313133?filter=all&sort=time
+   - https://www.twitch.tv/videos/812218439?filter=all&sort=time
+   - https://www.twitch.tv/videos/813284725?filter=all&sort=time
+   - https://www.twitch.tv/videos/828051852?filter=all&sort=time
+   
    </blockquote>
 </details>
     
