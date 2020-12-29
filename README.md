@@ -22,6 +22,7 @@
    - https://github.com/Quikko/Recon-Methodology
    - https://gist.github.com/jhaddix/b80ea67d85c13206125806f0828f4d10
    - https://github.com/random-robbie/keywords
+   - https://securitytrails.com/blog/github-dorks
    
    </blockquote>
 </details>
