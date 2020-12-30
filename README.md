@@ -250,9 +250,9 @@
    - https://github.com/hemantsolo/Bug-Bounty-Dorks-And-Platforms/blob/master/Bug_Bounty_Dorks.md
    - https://github.com/random-robbie/bugbountydork
    - https://github.com/pentester-io/commonspeak
-   - https://github.com/FortyNorthSecurity/EyeWitness
    - https://github.com/jhaddix/tbhm
    - https://github.com/techgaun/github-dorks
+   - https://github.com/bminossi/AllVideoPocsFromHackerOne
    
    </blockquote>
 </details>
@@ -287,6 +287,7 @@
    - https://tools.w3cub.com/html-escape-unescape
    - https://github.com/Findomain/Findomain
    - https://github.com/michenriksen/gitrob
+   - https://github.com/FortyNorthSecurity/EyeWitness
    
    </blockquote>
 </details>
